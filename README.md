@@ -1,1 +1,3 @@
-## Authorability For Dynamic Narrative Systems
+##  Managing Scope For Dynamic Narrative Systems
+
+*  	[Outline](/outline)
